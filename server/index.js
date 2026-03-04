@@ -12,7 +12,7 @@ import paymentRouter from "./routes/payment.route.js"
 
 const app = express()
 app.use(cors({
-    origin:"https://aicruiter-4s7x.onrender.com",
+    origin:"https://aicruiter-client.onrender.com",
     credentials:true
 }))
 
