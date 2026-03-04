@@ -83,6 +83,7 @@ Return strictly JSON:
 
 
 export const generateQuestion = async (req, res) => {
+  console.log("Req.body generateQuestion" , req.body);
   try {
     let { role, experience, mode, resumeText, projects, skills } = req.body
 
