@@ -223,7 +223,7 @@ The project can be deployed using **Render**.
 Mohammed Yasar
 MERN Stack Developer | AI Applications Builder
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/MohammedYasar132
 
 ---
 
